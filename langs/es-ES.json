@@ -809,5 +809,11 @@
     },
     "ui": {
         "closeButton": ""
-    }
+    },
+    "projets": "",
+    "mes_informations": "",
+    "mon_mot_de_passe": "",
+    "mes_documents": "",
+    "fiche_detaillee": "",
+    "profil": ""
 }
